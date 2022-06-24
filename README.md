@@ -15,7 +15,7 @@ The Restaurant-Catalogue-Website,is divided into the following sections:
 * A Menu section consist of different varieties of foods for the respective Customers.
 * A Special Menu Section was provided consist of snacks,veg,non-veg items,desserts,soup etc.
 * Location of the Restaurant was provided for the customers Using Map Section.
-* Timming and Address of the Resturant was provided for the customers in the section 
+* Timming and Address of the Restaurant was provided for the customers in the section 
 * A footer section.
 
 The website is filled with dummy text where needed. 
