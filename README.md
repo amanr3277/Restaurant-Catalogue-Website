@@ -33,6 +33,11 @@ or
 
 There are no known bugs.
 
+### License
+
+
+MIT (c) https://github.com/amanr3277/Restaurant-Catalogue-Website/blob/main/LICENSE
+
 ## Built With
 
 * HTML
