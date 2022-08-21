@@ -1,6 +1,6 @@
 # # Restaurant-Catalogue-Website
 
-#### A FrontEnd Website For Chinese Restaurant, DAVID CHU'S CHINA BISTRO. It is impelemented using Html,Css and  Javascript, through which a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.
+#### A  fully responsive Frontend For Chinese Restaurant, DAVID CHU'S CHINA BISTRO. It is impelemented using Html,Css and  Javascript, through which a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.
 
 
 
